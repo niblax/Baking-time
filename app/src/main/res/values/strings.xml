@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Baking Time</string>
+    <string name="ingredients_title">Ingredients:</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="video_url_missing">No video available</string>
+    <string name="next_step">Next step</string>
+    <string name="ingredients_error">No ingredients to display</string>
+    <string name="error_message">Something went wrong</string>
+    <string name="instructions">Instructions</string>
+    <string name="widget_message">Ingredients will show up here</string>
+    <string name="recipe_error">No recipe to display</string>
+    <string name="network_error">Recipes could not be loaded</string>
+    <string name="no_ingredients">No ingredients to display</string>
+    <string name="no_instructions">No instructions to display</string>
+</resources>
